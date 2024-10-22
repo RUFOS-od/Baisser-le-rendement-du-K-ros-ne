@@ -47,7 +47,7 @@ Nous allons appliquer les différentes méthodes de modélisation pour évaluer 
 •	Ridge préserve toutes les variables mais réduit leurs poids, tandis que Lasso peut supprimer les variables inutiles.
 
 
-# ~Modélisation et comparaison des modèles~ :
+# Modélisation et comparaison des modèles :
 ###### •Régression linéaire multiple : 
 Ce modèle donne une approximation initiale avec une performance correcte, mais il n'arrive pas à capturer toutes les relations complexes entre les variables
 ![alt text](image-2.png)
